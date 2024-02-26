@@ -1,0 +1,101 @@
+ID,Prediction
+596,an array of n strings strs
+737,an integer num
+907,a string path
+902,a string s of lowercase English letters; an integer array shifts of the same length
+769,two strings s and t
+630,the sorted rotated array nums
+734,two 0-indexed integer arrays nums1 and nums2 of length n
+528,the root of a binary tree
+868,the head of a singly linked-list
+940,an array of integers nums; an integer k
+773,a positive integer n
+680,an integer array nums; an integer k
+752,a 0-indexed string s
+584,a string s
+886,a string s
+518,a string s
+503,an integer n
+666,an integer
+770,a 0-indexed m x n integer matrix grid
+661,an integer array nums
+520,two integers n and k
+854,the coordinates of two rectilinear rectangles
+935,a string s
+788,an integer n
+512,two strings s and t consisting of only lowercase English letters
+602,an m x n matrix mat
+877,the head of a singly linked list; two integers left and right
+632,the root of a binary search tree
+601,a 0-indexed array nums consisting of positive integers
+952,the root of a binary tree
+657,an algorithm to determine if a number n is happy
+977,an integer n
+818,a string s
+800,an integer n
+529,the root of a binary tree
+856,an input string sand a pattern p
+954,an array of integers nums
+894,an m x n binary matrix grid
+685,an integer n
+889,an integer array nums
+813,a string s; an integer k
+574,an array nums consisting of positive integers
+523,an integer array prices
+827,the root of a binary tree; an integer targetSum
+589,an array courses
+979,two sentences s1 and s2
+542,an integer array nums
+539,n bulbs that are initially off
+795,an integer n
+713,a string containing just the characters '(' and ')'
+561,an integer num
+972,a triangle array
+735,an integer array nums; an integer k
+698,a 0-indexed integer array nums
+618,a 2D integer array positions
+864,the head of a linked list; an integer val
+590,an array prerequisites
+923,the head of a linked list
+873,an array of integers nums
+540,Each child is assigned a rating value given in the integer array ratings
+566,a linked list of length n
+739,a 0-indexed integer array nums
+615,a string columnTitle
+535,the root of a binary tree
+591,two strings order and s
+833,a collection of numbers
+570,a string s
+621,a 0-indexed m x n binary matrix grid
+835,a large integer
+662,a positive integer n
+510,the root of a binary tree
+810,two integers n and k
+846,an array of people
+732,an integer array nums
+756,two strings s1 and s2
+995,a string s; a dictionary of strings wordDict
+530,the root of a binary tree
+599,two strings word1 and word2
+669,two integer arrays nums1 and nums2
+950,a 0-indexed integer array nums
+910,a non-emptyarray of integers nums
+882,an integer array nums
+606,a string s
+976,an array of integers nums; an integer target
+957,a sorted unique integer array nums
+729,a 0-indexed integer array nums
+595,an integer array nums
+797,a function
+712,the root of a binary tree
+851,a 0-indexed integer array nums
+1000,a string
+598,an array of n strings strs
+820,an integer array nums
+994,an integer array nums
+794,an integer array nums
+825,an integer numRows
+567,a positive integer n
+780,an integer n
+876,a signed 32-bit integer x
+663,an array of non-overlapping intervals intervals
